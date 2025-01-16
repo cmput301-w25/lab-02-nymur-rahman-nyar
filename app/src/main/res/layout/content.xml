@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/view_city"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="City"
+    android:textSize="40sp"
+    android:layout_margin="10dp"
+    android:padding="16dp"
+    android:gravity="center"
+    android:textColor="#000000"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
+
